@@ -5,7 +5,7 @@ set -e
 
 # Git credentials
 GIT_USERNAME="${GIT_USERNAME:-root}"
-GIT_PASSWORD="${GIT_PASSWORD:-zyoiDZXaJNJQvx6Pfeuu}"
+GIT_PASSWORD="${GIT_PASSWORD:-.............}"
 
 # Prompt for service name
 echo -n "Enter the Service Name: "
